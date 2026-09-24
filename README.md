@@ -68,3 +68,5 @@ Dashboard Architecture
 * Operational Bottlenecks: Revenue loss per fulfillment tier (*On-Time* vs. *Delayed*), country-level performance, and risk distribution.
 
 <img width="887" height="494" alt="Image" src="https://github.com/user-attachments/assets/32b69ec0-3365-43a1-9434-ebb2fb1d3438" />
+
+<img width="678" height="379" alt="Image" src="https://github.com/user-attachments/assets/c8131d9d-5e7a-4848-b596-7ad14baf8cec" />
