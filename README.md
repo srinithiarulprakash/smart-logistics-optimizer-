@@ -67,4 +67,4 @@ Dashboard Architecture
 * Time-Series Analysis: Daily revenue fluctuations mapped against weather shifts.
 * Operational Bottlenecks: Revenue loss per fulfillment tier (*On-Time* vs. *Delayed*), country-level performance, and risk distribution.
 
-
+<img width="887" height="494" alt="Image" src="https://github.com/user-attachments/assets/32b69ec0-3365-43a1-9434-ebb2fb1d3438" />
